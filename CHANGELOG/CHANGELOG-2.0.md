@@ -1,4 +1,7 @@
 <!-- BEGIN MUNGE: GENERATED_TOC -->
+- [v2.0.0-beta.34](#v200-beta34)
+   - [Changelog since v2.0.0-beta.33](#changelog-since-v200-beta33)
+
 - [v2.0.0-beta.28](#v200-beta28)
    - [Changelog since v2.0.0-beta.27](#changelog-since-v200-beta27)
 
@@ -7,6 +10,16 @@
 
 
 <!-- NEW RELEASE NOTES ENTRY -->
+# v2.0.0-beta.34
+## Changelog since v2.0.0-beta.33
+#### 新增
+- [新增] Demo项目隐藏 [链接](http://github.com/TencentBlueKing/bk-ci/issues/9438)
+
+#### 优化
+- [优化] 增加国际化初始化配置 [链接](http://github.com/TencentBlueKing/bk-ci/issues/9413)
+
+#### 修复
+- [修复] 蓝盾v2.0.0问题修复 [链接](http://github.com/TencentBlueKing/bk-ci/issues/9343)
 # v2.0.0-beta.28
 ## Changelog since v2.0.0-beta.27
 #### 新增
