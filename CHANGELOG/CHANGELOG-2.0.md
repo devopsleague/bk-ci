@@ -1,4 +1,7 @@
 <!-- BEGIN MUNGE: GENERATED_TOC -->
+- [v2.0.0-beta.36](#v200-beta36)
+   - [Changelog since v2.0.0-beta.35](#changelog-since-v200-beta35)
+
 - [v2.0.0-beta.28](#v200-beta28)
    - [Changelog since v2.0.0-beta.27](#changelog-since-v200-beta27)
 
@@ -7,6 +10,10 @@
 
 
 <!-- NEW RELEASE NOTES ENTRY -->
+# v2.0.0-beta.36
+## Changelog since v2.0.0-beta.35
+#### 修复
+- [修复] 删除T_AUTH_IAM_CALLBACK表中experience资源 [链接](http://github.com/TencentBlueKing/bk-ci/issues/9656)
 # v2.0.0-beta.28
 ## Changelog since v2.0.0-beta.27
 #### 新增
